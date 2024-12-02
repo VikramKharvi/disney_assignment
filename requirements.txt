@@ -1,0 +1,15 @@
+openai==1.44.1
+kagglehub==0.3.4
+pandas==2.2.2
+SQLAlchemy==2.0.34
+langchain-community==0.2.16
+PyMuPDF==1.24.10
+langchain==0.2.16
+sentence-transformers==3.3.1
+langchain-chroma>=0.1.2 
+transformers==4.46.3 
+bitsandbytes==0.42.0
+accelerate==1.1.1 
+torch==2.5.1
+langchain_chroma==0.1.4
+huggingface-hub==0.22.2
